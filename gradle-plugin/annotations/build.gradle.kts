@@ -1,0 +1,4 @@
+plugins {
+    kotlinJVM()
+    mavenPublish()
+}
